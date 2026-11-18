@@ -1,0 +1,23 @@
+{
+ "version": "1.9.0",
+ "code": 25,
+ "date": "2026-11-18",
+ "size": "3.3 MB",
+ "notes": [
+  "封面长廊:锁屏、播放页、桌面小部件",
+  "全平台逐字歌词,先出歌词再替换逐字",
+  "锁屏重做:歌词进面板、音频频谱、横屏",
+  "播客、MV、评论回复、多选、歌单导入与订阅",
+  "离线模式、试听识别、播放设备面板"
+ ],
+ "links": [
+  {
+   "name": "夸克网盘",
+   "url": "https://pan.quark.cn/s/ef3a0807dfb0?pwd=UseQ"
+  },
+  {
+   "name": "GitHub",
+   "url": "https://github.com/Kingvast/Muse-release/releases/download/v1.9.0/MUSE-v1.9.0.apk"
+  }
+ ]
+}
