@@ -1,17 +1,17 @@
 {
- "version": "1.9.1",
- "code": 26,
- "date": "2026-11-18",
- "size": "3.2 MB",
+ "version": "2.0.0",
+ "code": 28,
+ "date": "2026-11-19",
+ "size": "3.5 MB",
  "notes": [
-  "检查更新:关于页一键检查、下载新版",
-  "省电模式:一键关掉耗电的效果",
-  "锁屏三种样式:标准、经典、封面长廊",
-  "本地音乐开关、App 内字体大小",
-  "设置重新归类,图标与桌面统一"
+  "自定义音源:导入脚本或插件,搜索播放和内置平台一致",
+  "音效全面自研:均衡器校准、不破音,新增响度均衡",
+  "换源更稳:放不出来自动换回原版本",
+  "下载重做:进度、删除,自动写入歌名封面歌词",
+  "关掉的平台彻底隐藏,别的应用停了自动续播"
  ],
  "links": [
   {"name": "夸克网盘", "url": "https://pan.quark.cn/s/ef3a0807dfb0?pwd=UseQ"},
-  {"name": "GitHub", "url": "https://github.com/Kingvast/Muse-release/releases/download/v1.9.1/MUSE-v1.9.1.apk"}
+  {"name": "GitHub", "url": "https://github.com/Kingvast/Muse-release/releases/download/v2.0.0/MUSE-v2.0.0.apk"}
  ]
 }
