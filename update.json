@@ -1,15 +1,21 @@
 {
- "version": "2.0.1",
- "code": 29,
+ "version": "2.2.0",
+ "code": 33,
  "date": "2026-11-20",
  "size": "3.5 MB",
  "notes": [
-  "资料库新增「NAS 音乐」:全部专辑、歌手、最新添加、随机歌曲、歌单",
-  "连上 NAS 后能直接浏览整个曲库",
-  "兼容更多 Subsonic 服务(老版 Airsonic 等)"
+  "全新界面:底栏 4 个 tab + 独立搜索,布局全部重排,液态玻璃保留",
+  "自定义音源音质扩展到母带,每个音源可单独选音质",
+  "五个平台的歌单分享链接都能导入并订阅,不依赖登录",
+  "自动换源失败时逐个平台说明原因",
+  "更省电、更省流量:后台唤醒大幅减少",
+  "修复逐字歌词后半首消失、播放页下拉收起闪烁等问题"
  ],
+ "howTo": "安装包不再公开下载。请打开作者的小红书主页进群,向群主索要下载链接。",
  "links": [
-  {"name": "夸克网盘", "url": "https://pan.quark.cn/s/ef3a0807dfb0?pwd=UseQ"},
-  {"name": "GitHub", "url": "https://github.com/Kingvast/Muse-release/releases/download/v2.0.1/MUSE-v2.0.1.apk"}
+  {
+   "name": "进小红书群索要安装包",
+   "url": "https://xhslink.cn/o/6gFgxqDDGpg"
+  }
  ]
 }

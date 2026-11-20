@@ -4,16 +4,13 @@ All Music. In One. —— Apple Music 风格的 Android 多平台音乐播放器
 
 作者:**Charon**
 
-> 这个仓库只用来发布安装包和检查更新,不包含源代码。
+> 这个仓库只用来检查更新,不包含源代码,也不再提供安装包下载。
 
-## 下载
+## 获取
 
-| 地址 | 说明 |
-|---|---|
-| [夸克网盘](https://pan.quark.cn/s/ef3a0807dfb0?pwd=UseQ) | 国内推荐,提取码 `UseQ` |
-| [GitHub Releases](https://github.com/Kingvast/Muse-release/releases/latest) | 下载 `MUSE-vX.Y.Z.apk` |
+安装包不再公开下载。请打开作者的[小红书主页](https://xhslink.cn/o/6gFgxqDDGpg)进群,向群主索要下载链接。
 
-下载后直接安装,覆盖旧版本即可,数据不会丢。App 里「我的 › 关于 MUSE」可以检查更新。
+拿到后直接安装,覆盖旧版本即可,数据不会丢。App 里「我的 › 关于 MUSE」可以检查更新。
 
 <p align="center"><img src="img/v1.9.0.png" width="420" alt="MUSE v1.9.0 更新内容"></p>
 
